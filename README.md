@@ -1,32 +1,23 @@
-# 🏝️ Thailand Attractions Guide 2025
+# 🏨✈️ Thailand Accommodation & Flights Guide 2025
 
-This repository contains a mobile-friendly, collapsible attractions guide for your 2025 Thailand adventure.  
-It showcases top-rated attractions, markets, tours, and experiences across **Bangkok** and **Phuket**—organised in an intuitive, structured format.
+This repository contains a mobile-friendly, collapsible guide for managing accommodation and flight details for your 2025 Thailand trip. It provides a clear breakdown of bookings, room types, hotel contacts, flight times, and airline links — all structured for easy access on both desktop and mobile.
 
 ## ✅ Live Site
 Once deployed via GitHub Pages, access the live guide here:  
-**https://thailand-2025.github.io/attractions-guide/**
+**https://thailand-2025.github.io/accommodation-flights-guide/**
 
 ## ✨ Features
-- **Collapsible city sections**: Bangkok and Phuket
-- **Structured formatting** with:
-  - Bold destination prefixes (e.g. “Destination – MBK CENTER”)
-  - Clickable attraction links and Google Maps directions
-  - Clear time fields (When, Hours, Travel Time)
-  - Dual currency support (Price – ฿ / $)
-- **Mobile-optimised** for ease of scrolling and readability
-- **Responsive layout** with compact column widths for minimal swiping
+- **Collapsible sections** for Phuket Accommodation, Bangkok Accommodation, and Flights  
+- **Clickable hotel and room links** including OneDrive galleries  
+- **Flight lookups** for Jetstar, AirAsia, and Nok Air with check-in and flight status links  
+- **Clear booking references** and check-in/out timing  
+- **Australian date and time formats** for all travel details  
+- **Responsive layout** optimised for mobile and desktop browsing
 
-## 🧭 Categories Shown
-1. Destination
-2. When
-3. Price
-4. Description
-5. Highlights
-6. Hours
-7. Distance
-8. Travel Time
-9. Directions
+## 📌 Guide Sections
+1. 🏝️ Phuket Accommodation  
+2. 🏙️ Bangkok Accommodation  
+3. ✈️ Flights  
 
 ## 🔧 How to Use
 1. Clone this repository or upload via GitHub.
